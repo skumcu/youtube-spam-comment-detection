@@ -29,7 +29,7 @@ The dataset contains YouTube comments labeled as either spam or non-spam.
 ```
 youtube-spam-comment-detection/
 │
-├── spam_detection.ipynb
+├── spam_tespit.ipynb
 ├── Youtube01-Psy.csv
 └── README.md
 ```
